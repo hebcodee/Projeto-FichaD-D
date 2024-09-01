@@ -3,10 +3,13 @@
 **Tela Inicial**
 (1) - Criar Novo Personagem  
 (2) - Carregar Fichas
-(4) - Editar Fichas
-(5) - Deletar Ficha
+(3) - Criar ficha aleatoria
 -> Depois (6) -  Criar ficha aleatoria
 ----------------------------------------
+Carregar ficha:
+(1) - Editar Fichas
+(2) - Deletar Ficha
+
 Fichas [4] - [Personagem1, Personagem2, Personagem3, Personagem4]
 
 def EscolherNome
